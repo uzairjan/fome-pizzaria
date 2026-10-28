@@ -1,0 +1,6 @@
+{
+  "name": "Sabor Rústico",
+  "description": "Churrasqueira portuguesa tradicional, pizzas artesanais em forno a lenha e grelhados kebab com pedidos online e WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
